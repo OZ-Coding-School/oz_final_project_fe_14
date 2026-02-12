@@ -1,0 +1,3 @@
+[submodule "team1"]
+	path = team1
+	url = https://github.com/oz-union-14-team1/oz-union-fe-14-team1.git
