@@ -4,3 +4,6 @@
 [submodule "team2"]
 	path = team2
 	url = https://github.com/StudiGo-community/Frontend.git
+[submodule "team3"]
+	path = team3
+	url = https://github.com/Near-0-5/frontend.git
